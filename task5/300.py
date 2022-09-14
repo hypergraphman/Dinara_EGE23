@@ -13,4 +13,3 @@ for i in range(1, 451):
     if f(i) < 450 and f(i) > mx:
             mx = f(i)
 print(mx)
-
